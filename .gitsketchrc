@@ -1,6 +1,6 @@
 {
   "exportFolder": ".artboards",
-  "exportFormat": "svg",
+  "exportFormat": "png",
   "exportScale": "1.0",
   "includeOverviewFile": true,
   "autoExportOnSave": true
