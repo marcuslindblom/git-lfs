@@ -17,8 +17,8 @@
                     <rect id="Shape" x="0" y="0" width="394" height="394"></rect>
                 </g>
             </g>
-            <text id="EDITED" font-family="Roboto-Light, Roboto" font-size="20" font-weight="300" fill="#D0021B">
-                <tspan x="687" y="517">EDITED</tspan>
+            <text id="Another-edit" font-family="Roboto-Light, Roboto" font-size="20" font-weight="300" fill="#D0021B">
+                <tspan x="687" y="517">Another edit</tspan>
             </text>
         </g>
     </g>
